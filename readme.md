@@ -1,1 +1,0 @@
-# Seminar Git, Github
